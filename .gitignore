@@ -27,6 +27,7 @@ modules/.vscode
 obj/
 juegos_apirsa
 juegos_apirsa.pub
+user
 
 # Don't check in secret files
 *secret.js
