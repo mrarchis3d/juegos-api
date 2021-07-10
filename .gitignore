@@ -25,6 +25,8 @@ modules/.vscode
 .vimrc
 .nvimrc
 obj/
+juegos_apirsa
+juegos_apirsa.pub
 
 # Don't check in secret files
 *secret.js
@@ -50,6 +52,7 @@ baseline.json
 
 # Ignore .history for the xyz.local-history VSCode extension
 .history
+.pub
 
 # CLDR data
 tools/gulp-tasks/cldr/cldr-data/
